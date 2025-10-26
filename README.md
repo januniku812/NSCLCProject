@@ -1,6 +1,6 @@
 2023-2024 Science Fair Project
 
-How to run: The .ipynb file uploaded just needs to be downloaded and opened in Google Colab Notebooks. Then the 'run all code cells' command can be run.
+How to run: The NSCLCSubtypeDiagnosisProject.ipynb file uploaded just needs to be downloaded and opened in Google Colab Notebooks. Then the 'run all code cells' command can be run.
 
 Note: The NSCLCSubtypeDiagnosisProject.ipynb file cannot be run without downloading the exact data files referenced in the code cells from The Cancer Genome Atlas, which requires either the GDC Transfer Tool or manual downloads to save the large whole slide imaging (.svs) files and RNA Sequencing files from TCGA-LUAD and TCGA-LUSC databases as well as the CT Scan data found here: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images. This process can take several dozen hours.
 
